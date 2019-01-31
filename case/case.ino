@@ -25,16 +25,16 @@ int flag = 0;
 int flag_true = 0;
 int flag_false = 0;
 
-char char1 = '8';
-char char2 = '5';
-char char3 = '6';
-char char4 = '4';
-char char5 = '9';
+char char1 = '9';
+char char2 = '6';
+char char3 = '7';
+char char4 = '5';
+char char5 = '0';
 char char6 = '2';
-char char7 = '0';
+char char7 = '7';
 char char8 = '4';
-char char9 = '6';
-char char10 = '3';
+char char9 = '9';
+char char10 = '5';
 
 const byte ROWS = 4; //four rows
 const byte COLS = 4; //four columns
