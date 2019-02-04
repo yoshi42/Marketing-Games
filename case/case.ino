@@ -9,7 +9,7 @@
 7) 9675027495
 8) 5327145890
 9) 8859942214
-10) 135792468
+10) 1357924680
  */
 
 #include <Keypad.h>
@@ -25,16 +25,16 @@ int flag = 0;
 int flag_true = 0;
 int flag_false = 0;
 
-char char1 = '9';
-char char2 = '6';
-char char3 = '7';
-char char4 = '5';
-char char5 = '0';
+char char1 = '1';
+char char2 = '3';
+char char3 = '5';
+char char4 = '7';
+char char5 = '9';
 char char6 = '2';
-char char7 = '7';
-char char8 = '4';
-char char9 = '9';
-char char10 = '5';
+char char7 = '4';
+char char8 = '6';
+char char9 = '8';
+char char10 = '0';
 
 const byte ROWS = 4; //four rows
 const byte COLS = 4; //four columns
