@@ -1,15 +1,15 @@
 /*
 Коды кейсы:
-1) 2502199325
-2) 0610568107
-3) 7564028511
-4) 9966743129
-5) 8564920463
-6) 7755940214
-7) 9675027495
-8) 5327145890
-9) 8859942214
-10) 1357924680
+1) 1311410000 //
+2) 1210181210 //
+3) 1216173070 //
+4) 1916135120 //
+5) 1462011313 //
+6) 1920615100 //
+7) 1210511329 //
+8) 1416273000 //
+9) 2561820780 //
+10) 1912101500 //
  */
 
 #include <Keypad.h>
@@ -26,14 +26,14 @@ int flag_true = 0;
 int flag_false = 0;
 
 char char1 = '1';
-char char2 = '3';
-char char3 = '5';
-char char4 = '7';
-char char5 = '9';
-char char6 = '2';
-char char7 = '4';
-char char8 = '6';
-char char9 = '8';
+char char2 = '9';
+char char3 = '1';
+char char4 = '2';
+char char5 = '1';
+char char6 = '0';
+char char7 = '1';
+char char8 = '5';
+char char9 = '0';
 char char10 = '0';
 
 const byte ROWS = 4; //four rows
